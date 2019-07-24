@@ -15,7 +15,7 @@ allowed_ips = "81.255.154.160,0.0.0.0"
 consistency_level = "Session" 
 
 # Storage Accounts parameters
-storage_account_name = "wefrcbpstodevbiotherm"
+storage_account_name = "wefrcbpstodevfirstrg001"
 
 # Service plan parameters
 service_plan_name = "we-frcbp-appsvcplan-dev-firstrg001-01"
