@@ -1,0 +1,28 @@
+# authentication parameters
+# client_id = "sample client id"
+# client_secret = "sample client secret"
+# subscription_id = "e5e4a161-19d0-46f1-9a99-fdd18df60816"
+# tenant_id = "sample tenant id"
+
+# resource group parameters
+rg_name = "firstrg001 "  
+rg_region = "West Europe"
+
+# CosmosDB parameters
+cosmos_db_name = "we-frcbp-azcosdb-dev-firstrg001-01"
+db_kind = "MongoDB"
+allowed_ips = "81.255.154.160,104.42.195.92,40.76.54.131,52.176.6.30,52.169.50.45,52.187.184.26,0.0.0.0"
+consistency_level = "Session" 
+
+# Storage Accounts parameters
+storage_account_name = "wefrcbpstodevbiotherm"
+
+# Service plan parameters
+service_plan_name = "we-frcbp-appsvcplan-dev-firstrg001-01"
+service_api_name = "we-frcbp-wapp-dev-firstrg001-01"
+service_portal_name = "we-frcbp-wapp-dev-firstrg001-02"
+api_extension_version = "latest"
+api_node_env = "Developmentfirstrg001"
+api_website_node_version = "6.9.1"
+portal_aspversion = "Developmentfirstrg001"
+portal_locked = "1"
