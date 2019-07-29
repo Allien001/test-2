@@ -5,24 +5,24 @@
 # tenant_id = "sample tenant id"
 
 # resource group parameters
-rg_name = "firstrg001 "  
-rg_region = "West Europe"
+rg_name = "firstrg002 "  
+rg_region = "North Europe"
 
 # CosmosDB parameters
-cosmos_db_name = "we-frcbp-azcosdb-dev-firstrg001-01"
+cosmos_db_name = "ne-frcbp-azcosdb-dev-firstrg002-01"
 db_kind = "MongoDB"
 allowed_ips = "81.255.154.160,0.0.0.0"
 consistency_level = "Session" 
 
 # Storage Accounts parameters
-storage_account_name = "wefrcbpstodevfirstrg001"
+storage_account_name = "wefrcbpstodevfirstrg002"
 
 # Service plan parameters
-service_plan_name = "we-frcbp-appsvcplan-dev-firstrg001-01"
-service_api_name = "we-frcbp-wapp-dev-firstrg001-01"
-service_portal_name = "we-frcbp-wapp-dev-firstrg001-02"
+service_plan_name = "we-frcbp-appsvcplan-dev-firstrg002-01"
+service_api_name = "we-frcbp-wapp-dev-firstrg002-01"
+service_portal_name = "we-frcbp-wapp-dev-firstrg002-02"
 api_extension_version = "latest"
-api_node_env = "Developmentfirstrg001"
+api_node_env = "Developmentfirstrg002"
 api_website_node_version = "6.9.1"
-portal_aspversion = "Developmentfirstrg001"
+portal_aspversion = "Developmentfirstrg002"
 portal_locked = "1"
